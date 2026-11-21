@@ -1,0 +1,93 @@
+{
+ "app": "mtb-questions",
+ "v": 1,
+ "exported": "2026-11-21T20:31:37Z",
+ "questions": [
+  {
+   "id": "mwqv5obg1iq8",
+   "name": "Area of a rectangle",
+   "lvl": "Example",
+   "cat": "Geometry",
+   "sub": "",
+   "sub2": "",
+   "grp": "",
+   "distinct": 0,
+   "whole": 0,
+   "exact": 0,
+   "vars": [
+    {
+     "k": "set",
+     "ns": [
+      "a",
+      "b",
+      "d"
+     ],
+     "count": 3,
+     "w": "any",
+     "dp": 1,
+     "min": 1,
+     "max": 12,
+     "m": 2
+    },
+    {
+     "n": "c",
+     "k": "int",
+     "w": "any",
+     "min": 20,
+     "max": 60,
+     "m": 2
+    }
+   ],
+   "words": [
+    [
+     [
+      {
+       "t": "txt",
+       "v": "A rectangle is "
+      },
+      {
+       "t": "var",
+       "v": "a"
+      },
+      {
+       "t": "txt",
+       "v": " cm long and "
+      },
+      {
+       "t": "var",
+       "v": "b"
+      },
+      {
+       "t": "txt",
+       "v": " cm wide. Calculate its area."
+      }
+     ],
+     [
+      {
+       "t": "var",
+       "v": "c"
+      },
+      {
+       "t": "txt",
+       "v": " cm^"
+      },
+      {
+       "t": "var",
+       "v": "d"
+      }
+     ]
+    ]
+   ],
+   "ans": [
+    []
+   ],
+   "pts": [
+    {
+     "e": 1,
+     "c": 0,
+     "a": 0
+    }
+   ]
+  }
+ ]
+}

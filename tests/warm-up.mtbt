@@ -1,0 +1,278 @@
+{
+ "app": "mtb-tests",
+ "v": 1,
+ "exported": "2026-11-21T20:31:37Z",
+ "tests": [
+  {
+   "id": "mwqv5obgnj9kbmz6",
+   "name": "Warm-up: equations and area",
+   "desc": "Three short tasks, an example test.",
+   "saved": "2026-11-21T20:31:38.332Z",
+   "grading": 1,
+   "parts": [
+    {
+     "id": "mwqv5obhc8bpnoci",
+     "name": "",
+     "head": "",
+     "sel": {
+      "mwqv5obeq8cn": 1,
+      "mwqv5obgehym": 1,
+      "mwqv5obg1iq8": 1
+     },
+     "grp": {},
+     "wa": {},
+     "gwa": {}
+    }
+   ],
+   "newPage": 0,
+   "head": "",
+   "foot": "",
+   "questions": [
+    {
+     "id": "mwqv5obeq8cn",
+     "name": "Linear equation, one step",
+     "lvl": "Example",
+     "cat": "Algebra",
+     "sub": "",
+     "sub2": "",
+     "grp": "",
+     "distinct": 0,
+     "whole": 0,
+     "exact": 0,
+     "vars": [
+      {
+       "k": "set",
+       "ns": [
+        "a",
+        "b",
+        "c",
+        "d"
+       ],
+       "count": 4,
+       "w": "any",
+       "dp": 1,
+       "min": 1,
+       "max": 17,
+       "m": 2
+      }
+     ],
+     "words": [
+      [
+       [
+        {
+         "t": "txt",
+         "v": "Solve the equation "
+        },
+        {
+         "t": "var",
+         "v": "a"
+        },
+        {
+         "t": "txt",
+         "v": "x + "
+        },
+        {
+         "t": "var",
+         "v": "b"
+        },
+        {
+         "t": "txt",
+         "v": " = "
+        },
+        {
+         "t": "var",
+         "v": "c"
+        }
+       ],
+       [
+        {
+         "t": "txt",
+         "v": "x = "
+        },
+        {
+         "t": "var",
+         "v": "d"
+        }
+       ]
+      ]
+     ],
+     "ans": [
+      []
+     ],
+     "pts": [
+      {
+       "e": 1,
+       "c": 0,
+       "a": 0
+      }
+     ]
+    },
+    {
+     "id": "mwqv5obgehym",
+     "name": "Linear equation, two steps",
+     "lvl": "Example",
+     "cat": "Algebra",
+     "sub": "",
+     "sub2": "",
+     "grp": "",
+     "distinct": 0,
+     "whole": 0,
+     "exact": 0,
+     "vars": [
+      {
+       "k": "set",
+       "ns": [
+        "a",
+        "b",
+        "c",
+        "d"
+       ],
+       "count": 4,
+       "w": "any",
+       "dp": 1,
+       "min": 2,
+       "max": 27,
+       "m": 2
+      }
+     ],
+     "words": [
+      [
+       [
+        {
+         "t": "txt",
+         "v": "Solve the equation "
+        },
+        {
+         "t": "var",
+         "v": "a"
+        },
+        {
+         "t": "txt",
+         "v": "x - "
+        },
+        {
+         "t": "var",
+         "v": "b"
+        },
+        {
+         "t": "txt",
+         "v": " = "
+        },
+        {
+         "t": "var",
+         "v": "c"
+        }
+       ],
+       [
+        {
+         "t": "txt",
+         "v": "x = "
+        },
+        {
+         "t": "var",
+         "v": "d"
+        }
+       ]
+      ]
+     ],
+     "ans": [
+      []
+     ],
+     "pts": [
+      {
+       "e": 1,
+       "c": 0,
+       "a": 0
+      }
+     ]
+    },
+    {
+     "id": "mwqv5obg1iq8",
+     "name": "Area of a rectangle",
+     "lvl": "Example",
+     "cat": "Geometry",
+     "sub": "",
+     "sub2": "",
+     "grp": "",
+     "distinct": 0,
+     "whole": 0,
+     "exact": 0,
+     "vars": [
+      {
+       "k": "set",
+       "ns": [
+        "a",
+        "b",
+        "d"
+       ],
+       "count": 3,
+       "w": "any",
+       "dp": 1,
+       "min": 1,
+       "max": 12,
+       "m": 2
+      },
+      {
+       "n": "c",
+       "k": "int",
+       "w": "any",
+       "min": 20,
+       "max": 60,
+       "m": 2
+      }
+     ],
+     "words": [
+      [
+       [
+        {
+         "t": "txt",
+         "v": "A rectangle is "
+        },
+        {
+         "t": "var",
+         "v": "a"
+        },
+        {
+         "t": "txt",
+         "v": " cm long and "
+        },
+        {
+         "t": "var",
+         "v": "b"
+        },
+        {
+         "t": "txt",
+         "v": " cm wide. Calculate its area."
+        }
+       ],
+       [
+        {
+         "t": "var",
+         "v": "c"
+        },
+        {
+         "t": "txt",
+         "v": " cm^"
+        },
+        {
+         "t": "var",
+         "v": "d"
+        }
+       ]
+      ]
+     ],
+     "ans": [
+      []
+     ],
+     "pts": [
+      {
+       "e": 1,
+       "c": 0,
+       "a": 0
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

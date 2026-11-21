@@ -1,0 +1,11 @@
+{
+ "app": "mtb-bank-index",
+ "v": 1,
+ "name": "My question bank (examples)",
+ "description": "Example questions and a test. Replace them with your own.",
+ "files": [
+  "questions/algebra/linear-equations.mtbq",
+  "questions/geometry/area.mtbq",
+  "tests/warm-up.mtbt"
+ ]
+}
