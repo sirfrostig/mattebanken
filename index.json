@@ -1,8 +1,8 @@
 {
  "app": "mtb-bank-index",
  "v": 1,
- "name": "My question bank (examples)",
- "description": "Example questions and a test. Replace them with your own.",
+ "name": "Nils Frågebank",
+ "description": "detta är en frågebank som jag hostar som ett första test, syftet kan ändras över tid.",
  "files": [
   "questions/algebra/linear-equations.mtbq",
   "questions/geometry/area.mtbq",
