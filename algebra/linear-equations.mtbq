@@ -1,0 +1,165 @@
+{
+ "app": "mtb-questions",
+ "v": 1,
+ "exported": "2026-11-21T20:31:37Z",
+ "questions": [
+  {
+   "id": "mwqv5obeq8cn",
+   "name": "Linear equation, one step",
+   "lvl": "Example",
+   "cat": "Algebra",
+   "sub": "",
+   "sub2": "",
+   "grp": "",
+   "distinct": 0,
+   "whole": 0,
+   "exact": 0,
+   "vars": [
+    {
+     "k": "set",
+     "ns": [
+      "a",
+      "b",
+      "c",
+      "d"
+     ],
+     "count": 4,
+     "w": "any",
+     "dp": 1,
+     "min": 1,
+     "max": 17,
+     "m": 2
+    }
+   ],
+   "words": [
+    [
+     [
+      {
+       "t": "txt",
+       "v": "Solve the equation "
+      },
+      {
+       "t": "var",
+       "v": "a"
+      },
+      {
+       "t": "txt",
+       "v": "x + "
+      },
+      {
+       "t": "var",
+       "v": "b"
+      },
+      {
+       "t": "txt",
+       "v": " = "
+      },
+      {
+       "t": "var",
+       "v": "c"
+      }
+     ],
+     [
+      {
+       "t": "txt",
+       "v": "x = "
+      },
+      {
+       "t": "var",
+       "v": "d"
+      }
+     ]
+    ]
+   ],
+   "ans": [
+    []
+   ],
+   "pts": [
+    {
+     "e": 1,
+     "c": 0,
+     "a": 0
+    }
+   ]
+  },
+  {
+   "id": "mwqv5obgehym",
+   "name": "Linear equation, two steps",
+   "lvl": "Example",
+   "cat": "Algebra",
+   "sub": "",
+   "sub2": "",
+   "grp": "",
+   "distinct": 0,
+   "whole": 0,
+   "exact": 0,
+   "vars": [
+    {
+     "k": "set",
+     "ns": [
+      "a",
+      "b",
+      "c",
+      "d"
+     ],
+     "count": 4,
+     "w": "any",
+     "dp": 1,
+     "min": 2,
+     "max": 27,
+     "m": 2
+    }
+   ],
+   "words": [
+    [
+     [
+      {
+       "t": "txt",
+       "v": "Solve the equation "
+      },
+      {
+       "t": "var",
+       "v": "a"
+      },
+      {
+       "t": "txt",
+       "v": "x - "
+      },
+      {
+       "t": "var",
+       "v": "b"
+      },
+      {
+       "t": "txt",
+       "v": " = "
+      },
+      {
+       "t": "var",
+       "v": "c"
+      }
+     ],
+     [
+      {
+       "t": "txt",
+       "v": "x = "
+      },
+      {
+       "t": "var",
+       "v": "d"
+      }
+     ]
+    ]
+   ],
+   "ans": [
+    []
+   ],
+   "pts": [
+    {
+     "e": 1,
+     "c": 0,
+     "a": 0
+    }
+   ]
+  }
+ ]
+}
