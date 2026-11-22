@@ -1,0 +1,97 @@
+{
+ "id": "mvcpc4ak5t5a",
+ "name": "I en glassbar kan Adam välja mellan: • 2",
+ "lvl": "årskurs 9",
+ "cat": "NP",
+ "sub": "",
+ "sub2": "",
+ "grp": "",
+ "distinct": 0,
+ "whole": 0,
+ "exact": 0,
+ "vars": [
+  {
+   "k": "set",
+   "ns": [
+    "a",
+    "b",
+    "c"
+   ],
+   "count": 3,
+   "w": "any",
+   "dp": 1,
+   "min": 2,
+   "max": 8,
+   "m": 2
+  }
+ ],
+ "words": [
+  [
+   [
+    {
+     "t": "txt",
+     "v": "I en glassbar kan Adam välja mellan:   • "
+    },
+    {
+     "t": "var",
+     "v": "a"
+    },
+    {
+     "t": "txt",
+     "v": " olika sorters strutar   • "
+    },
+    {
+     "t": "var",
+     "v": "b"
+    },
+    {
+     "t": "txt",
+     "v": " olika smaker mjukglass   • "
+    },
+    {
+     "t": "var",
+     "v": "c"
+    },
+    {
+     "t": "txt",
+     "v": " olika sorters strössel  Hur många olika glassar kan han kombinera ihop om varje glass består av en strut, en smak och en sorts strössel?"
+    }
+   ]
+  ]
+ ],
+ "ans": [
+  [
+   {
+    "t": "fn",
+    "v": "simplify",
+    "a": {
+     "t": "op",
+     "v": "×",
+     "a": {
+      "t": "var",
+      "v": "a"
+     },
+     "b": {
+      "t": "op",
+      "v": "×",
+      "a": {
+       "t": "var",
+       "v": "b"
+      },
+      "b": {
+       "t": "var",
+       "v": "c"
+      }
+     }
+    }
+   }
+  ]
+ ],
+ "pts": [
+  {
+   "e": 1,
+   "c": 0,
+   "a": 0
+  }
+ ]
+}
